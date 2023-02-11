@@ -1,0 +1,6 @@
+skladniki:
+maka
+woda
+oliwa
+sól
+
